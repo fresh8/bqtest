@@ -1,0 +1,4 @@
+
+[[constraint]]
+  name = "cloud.google.com/go"
+  version = "0.36.0"
